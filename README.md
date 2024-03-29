@@ -14,7 +14,3 @@ The dataset used in this project can be accessed from the following link:
 - scikit-learn
 - pandas
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Kidney-Disease-Classification.git
